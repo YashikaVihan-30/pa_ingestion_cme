@@ -1,0 +1,15 @@
+*.ipynb
+logs/
+*.pkl
+**/*.ipynb_checkpoints/
+*.xlsx
+*.csv
+__pycache__/
+*$py.class
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+./logs
+
